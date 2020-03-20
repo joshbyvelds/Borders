@@ -1,1 +1,1 @@
-alert("TS Template");
+alert("Borders TS");
